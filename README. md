@@ -1,0 +1,19 @@
+# To-Do List App 
+
+A simple Python To-Do List application.
+
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+- Simple menu system
+
+## Technology Used
+- Python
+
+## How to Run
+
+python todo.py
+
+## Author
+Jivan Rathod
